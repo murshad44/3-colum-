@@ -37,3 +37,6 @@
     background-color: white;
 }
 
+#button:hover {
+    border: 2px solid orange;
+}
